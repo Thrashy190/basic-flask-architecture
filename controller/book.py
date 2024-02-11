@@ -6,4 +6,4 @@ class Books_Controller:
         return "<p>Create Book</p>"
     
     def getBooks(params):
-        return "<p>Get Books</p>"
+        return "<p>Get Book</p>"
